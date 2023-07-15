@@ -19,3 +19,17 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+This code uses the following libraries:
+
+pandas: https://pandas.pydata.org/
+sklearn.metrics.pairwise: https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise.cosine_similarity.html
+sentence_transformers: https://huggingface.co/sentence-transformers/
+torch: https://pytorch.org/
+nltk.corpus.stopwords: https://www.nltk.org/book/ch02.html
+nltk.corpus.wordnet: https://wordnet.princeton.edu/
+nltk: https://www.nltk.org/
+numpy: https://numpy.org/
+matplotlib: https://matplotlib.org/
+scipy.stats.pearsonr: https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.pearsonr.html
+scipy.signal.butter: https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.butter.html
